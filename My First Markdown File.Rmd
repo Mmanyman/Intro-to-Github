@@ -1,0 +1,7 @@
+---
+title: "My First Markdown File"
+author: "Emmanuel Ian A. Albeza"
+date: "Sept 16, 2025"
+output: html_document
+---
+
